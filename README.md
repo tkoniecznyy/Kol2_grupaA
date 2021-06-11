@@ -1,5 +1,14 @@
 # TKBlogKol2
 
+
+
+#Prosze o sprawdzenie kodu- nie ma żadnych błędów, strona angulara wstaje bez problemu - jedynie nie wiem czemu nie pobiera danych - a metody sa
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
 ## Development server

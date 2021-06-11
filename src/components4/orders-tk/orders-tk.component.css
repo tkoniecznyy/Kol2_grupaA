@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,100&display=swap');
+
+.orders-container{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-content: center;
+  font-family: 'Montserrat', sans-serif;
+}

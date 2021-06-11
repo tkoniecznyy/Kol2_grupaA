@@ -1,0 +1,16 @@
+<div class="item-container">
+  <h4>id: {{id}}</h4>
+
+  <h3>{{title}}</h3>
+
+  <h3>{{text}}</h3>
+
+  <button class="btn btn-primary" [routerLink]="['items/',id]">
+    Szczegóły
+  </button><br><br>
+
+  <div><img [src]="image"></div>
+
+  <h2>{{price}} pln</h2>
+  <hr>
+</div>

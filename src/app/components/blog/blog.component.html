@@ -1,0 +1,12 @@
+<p>
+  blog works!
+</p>
+
+
+<div class="container elems ">
+  <div *ngFor="let item of items$">
+    <app-blog-item [image]="item.image" [title]="item.title">
+    </app-blog-item>
+  </div>
+</div>
+
